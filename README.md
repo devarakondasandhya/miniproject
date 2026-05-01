@@ -119,14 +119,6 @@ Recilia/
 
 ---
 
-## Developer Information  
-
-Name: Sandhya  
-Branch: Computer Science and Engineering  
-Interest: Artificial Intelligence and Full Stack Development  
-
----
-
 ## Project Summary  
 
 Recilia demonstrates the integration of large language models in a real-world application. 
